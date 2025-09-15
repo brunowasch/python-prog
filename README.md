@@ -1,4 +1,3 @@
-﻿# python-prog
+﻿# Python - Programação II
 
- Uso este repositório para as aulas de Python na disciplina de Programação
-
+Uso este repositório para as aulas de Python na disciplina de Programação
